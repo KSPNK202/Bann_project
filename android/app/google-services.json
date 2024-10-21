@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348467000049",
+    "project_id": "baan-app",
+    "storage_bucket": "baan-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348467000049:android:b04d39c420feb98906af50",
+        "android_client_info": {
+          "package_name": "com.example.baan_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYCnY81wKRDtwnYokuTn2Pasb2tvSMyW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
